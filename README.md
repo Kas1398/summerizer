@@ -1,0 +1,1 @@
+# This project is an article summarization tool that utilizes natural language processing techniques to generate concise summaries of longer articles. 
